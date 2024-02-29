@@ -1,0 +1,207 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.CabecalhoHomePage
+{
+    padding: 30px;
+    text-align: center;
+    background-color: #04233F;
+}
+.CabecalhoHomePage h1
+{
+    font-size: 1.5em;
+    color: #1190ff;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Navegacao
+{
+    text-align: center;
+    padding: 20px;
+    background-color: #1e517e;
+}
+.Navegacao a 
+{
+    margin: 10px 50px;
+    text-decoration: none;
+    color: #5eaef5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Navegacao a:hover
+{
+    color: #beddf8;
+}
+.Conteudo
+{ 
+    background-color: #04233F;
+    overflow: auto;
+}
+.Conteudo article
+{
+    width: 40%;
+    margin: 40px auto;
+    color: #81c4ff;
+    font-size: 1.2em;
+    padding: 50px;
+    background-color: #061f35;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Conteudo article span
+{
+    color: white;
+}
+.Conteudo article div
+{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.MaisInformacoes
+{
+    overflow: auto;
+    background-color: #1e517e;
+    text-align: center;
+    padding: 50px;
+}
+.MaisInformacoes h4
+{
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    margin-bottom: 30px;
+}
+.MaisInformacoes nav
+{
+    margin: 70px;
+}
+.MaisInformacoes a
+{
+    font-size: 1.2em;
+    text-decoration: none; 
+    color: white;
+    background-color: #75a9d6;
+    border-radius: 10px;
+    padding: 20px 80px;
+    margin: 20px;
+}
+.MaisInformacoes a:hover
+{
+    background-color: white;
+    color: black
+}
+.FinalDaPagina
+{
+    padding: 30px;
+    text-align: center;
+    background-color: #04233F;
+    color: #747474;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ConteudoServicos
+{
+    background-color: #04233F;
+    overflow: auto;
+}
+.ConteudoServicos article
+{
+    color: white;
+    margin: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+}
+.ConteudoServicos div
+{
+    width: 35%;
+    margin: 50px auto;
+}
+.ConteudoServicos h3
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1190ff;
+}
+.ConteudoServicos li
+{
+    color: white;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.MaisInformacoes2
+{
+    overflow: auto;
+    background-color: #1e517e;
+    text-align: center;
+    padding: 10px;
+}
+.MaisInformacoes2 h4
+{
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    margin-bottom: 30px;
+    font-size: 1.5em;
+}
+.MaisInformacoes2 nav
+{
+    margin: 70px;
+}
+.MaisInformacoes2 a
+{
+    font-size: 1.2em;
+    text-decoration: none; 
+    color: white;
+    background-color: #75a9d6;
+    border-radius: 10px;
+    padding: 20px 80px;
+    margin: 20px;
+}
+.MaisInformacoes2 a:hover
+{
+    background-color: white;
+    color: black
+}
+.ConteudoContato
+{
+    background-color: #04233F;
+    overflow: auto;
+}
+.ConteudoContato article
+{
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+}
+.ConteudoContato div
+{
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1f4869;
+    max-width: 35%;
+    padding: 1px 10px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+.ConteudoContato header
+{
+    text-align: center;
+    color: white;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 40px;
+}
+.ConteudoContato nav a
+{
+    color: #00a2ff;
+    font-size: 2em;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
